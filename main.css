@@ -23,6 +23,7 @@ body{
 #bt{
     background:url(IMG_20221213_103923.jpg), radial-gradient(rgb(255, 255, 255),rgb(0, 0, 0));
     background-blend-mode: multiply; 
+    width:100%;
 }
 nav{
     margin: 25px;
