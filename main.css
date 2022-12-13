@@ -71,7 +71,7 @@ a:visited{
    font-family:strike;
 }
 #about{
-    text-align: center;
+    justify-content:left;
     font-size: 50px;
     color: yellow;
     font-family:strike;
@@ -95,9 +95,7 @@ hr{
     color: yellow;
 }
 #back{
-background:url(IMG_20221213_103923.jpg), radial-gradient(rgb(255, 255, 255),rgb(0, 0, 0));
-    background-size: contain;
-    background-blend-mode: multiply;   
+background:radial-gradient(rgb(255, 255, 255),rgb(0, 0, 0))
 }
 #imgp{
     float: right;
